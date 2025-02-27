@@ -1,0 +1,5 @@
+##############################################################################
+# vTraffic.zpt - Pzs-ng Plug-in Theme (Default Format)                        #
+##############################################################################
+
+announce.vtraffic = "%b{[vTraffic]}[%b{Traffic %periode}] %b{%result}"
